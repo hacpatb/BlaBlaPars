@@ -1,0 +1,8 @@
+.idea
+.vscode
+node_modules
+package-lock.json
+cache
+vendor
+npm-debug.log
+build
